@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/rammmpr/hbd-dhini-2024.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "rammmpr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/rammmpr/hbd-dhini-2024/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/rammmpr/hbd-dhini-2024#readme",
   "dependencies": {}
 }
